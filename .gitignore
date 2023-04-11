@@ -1,5 +1,10 @@
-# Object file
-*.o
+# Created by https://www.toptal.com/developers/gitignore/api/dbt
+# Edit at https://www.toptal.com/developers/gitignore?templates=dbt
 
-# Ada Library Information
-*.ali
+### dbt ###
+target/
+dbt_modules/
+dbt_packages/
+logs/
+
+# End of https://www.toptal.com/developers/gitignore/api/dbt
